@@ -12,6 +12,7 @@
 - Bootstrap
 - Mysql
 - PHP
+- Filezila
 
 ## Como fazer alteracoes no projeto:
 Baixar o plugin do visual studio code "Live Server" para conseguir hostear o site localmente
